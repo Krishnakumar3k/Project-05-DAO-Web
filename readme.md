@@ -1,8 +1,8 @@
 # Project-05 HTML and CSS
 
-![Badge]()
+![Badge](https://img.shields.io/badge/Project--05-DAO--Web-green)
 
-# [Link of live project]()
+# [Link of live project](https://daoweb.netlify.app/)
 
 ![LCO](./img/landing.png)
 
